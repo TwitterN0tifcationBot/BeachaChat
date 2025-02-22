@@ -1,0 +1,23 @@
+{
+  "name": "beacha",
+  "version": "1.0.0",
+  "description": "A web application for Beacha, featuring a login page and home page.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "keywords": [
+    "beacha",
+    "web",
+    "login",
+    "home"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
